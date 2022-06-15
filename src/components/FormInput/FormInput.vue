@@ -16,6 +16,7 @@ export default {
       toggle:false,
     }
   },
+
   computed:{
     change(){
       this.text = this.text+"===";
